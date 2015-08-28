@@ -34,6 +34,6 @@ Set-up plugin settings (in Admin view), then create Sprint & PB in each needed p
 
 Select a project and clic on "Configuration" → "Modules", then enable scrum plugin. You'll see two new tabs "Backlogs and "Sprint".
 
-== Licence
+## Licence
 
 This plugin is licensed under the Creative Commons Corporation. See license.txt for details.
