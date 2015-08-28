@@ -33,3 +33,7 @@ As any Redmine plugin, just deploy it in the plugins folder, rename folder to sc
 Set-up plugin settings (in Admin view), then create Sprint & PB in each needed project settings.
 
 Select a project and clic on "Configuration" → "Modules", then enable scrum plugin. You'll see two new tabs "Backlogs and "Sprint".
+
+== Licence
+
+This plugin is licensed under the Creative Commons Corporation. See license.txt for details.
